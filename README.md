@@ -1,10 +1,8 @@
-## Status: April 2023
+# :wave: Hello!
 
-Profile under construction...:stuck_out_tongue_winking_eye:
+My name is Wojtek and I'm a software development as well as system administration and cybersecurity enthusiast. Currently, a self-taught Node.js backend dev with a good knowledge of GNU/Linux operating system.
 
-# :wave: Hey there
-
-My name is Wojtek and I'm a software development as well as system administration and cybersecurity enthusiast.
+Majored in electrical engineering with a spec in high voltage systems and since 2013, I have been working as a sales engineer on energy and electromagnetic compatibility (EMC) markets. I've always had a crush on working with computers, be it either programming or solving issues with the systems.
 
 # Tech & Tools
 
@@ -84,14 +82,16 @@ My name is Wojtek and I'm a software development as well as system administratio
       />
       <br /><strong>Ansible</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  <tr>
+  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
-        alt="AWS"
+        alt="Git"
       />
-      <br /><strong>AWS</strong>
+      <br /><strong>Git</strong>
     </td>
   </tr>
 </table>
