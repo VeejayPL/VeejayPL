@@ -100,4 +100,6 @@ Majored in electrical engineering with a spec in high voltage systems and since 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VeejayPL&show_icons=true&theme=nord&hide_border=true" width="400">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VeejayPL&theme=nord&hide_border=true" width="400">
 </div>
