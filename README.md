@@ -1,8 +1,12 @@
 # :wave: Hello!
 
-My name is Wojtek and I'm a software development as well as system administration and cybersecurity enthusiast. Currently, a self-taught Node.js backend dev with a good knowledge of GNU/Linux operating system.
+<div align="justify">
+
+My name is Wojtek and I'm a software development as well as system administration and cybersecurity enthusiast. Currently, a self-taught full stack engineer with a good knowledge of GNU/Linux operating system.
 
 Majored in electrical engineering with a spec in high voltage systems and since 2013, I have been working as a sales engineer on energy and electromagnetic compatibility (EMC) markets. I've always had a crush on working with computers, be it either programming or solving issues with the systems.
+
+</div>
 
 # Tech & Tools
 
@@ -13,7 +17,7 @@ Majored in electrical engineering with a spec in high voltage systems and since 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
-        alt="HTML%"
+        alt="HTML5"
       />
       <br /><strong>HTML5</strong>
     </td>
@@ -37,12 +41,12 @@ Majored in electrical engineering with a spec in high voltage systems and since 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg"
         width="48"
         height="48"
-        alt="Bash"
+        alt="11ty"
       />
-      <br /><strong>Bash</strong>
+      <br /><strong>11ty SSG</strong>
     </td>
     </tr>
     <tr>
@@ -92,6 +96,15 @@ Majored in electrical engineering with a spec in high voltage systems and since 
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        width="48"
+        height="48"
+        alt="Bash"
+      />
+      <br /><strong>Bash</strong>
     </td>
   </tr>
 </table>
