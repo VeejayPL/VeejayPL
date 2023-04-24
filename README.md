@@ -4,9 +4,12 @@
 
 My name is Wojtek and I'm a software development as well as system administration and cybersecurity enthusiast. Currently, a self-taught full stack engineer with a good knowledge of GNU/Linux operating system.
 
-Majored in electrical engineering with a spec in high voltage systems and since 2013, I have been working as a sales engineer on energy and electromagnetic compatibility (EMC) markets. I've always had a crush on working with computers, be it either programming or solving issues with the systems.
+Majored in electrical engineering with a spec in high voltage systems and since 2013 I have been working as a sales engineer on energy and electromagnetic compatibility (EMC) markets. I've always had a crush on working with computers, be it either programming or solving issues with the systems.
 
 </div>
+
+<a href="https://www.linkedin.com/in/wojciech-jurkowski">
+<img src="https://img.shields.io/badge/LinkedIn-blue?&style=flat&logo=linkedin&labelColor=blue" height="25"></a>
 
 # Tech & Tools
 
